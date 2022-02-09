@@ -17,10 +17,10 @@ h1 {
     width: 50%;
     background: rgb(255, 255, 255);
     color: black;
-    margin: 50px;
+    margin: 100px;
     padding: 15px 20px;
     border : 1px black;
     border-radius: 0px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
