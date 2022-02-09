@@ -19,4 +19,7 @@ h1 {
     color: black;
     margin: 0px;
     padding: 15px 20px;
+    border : 1px black;
+    border-radius: 5px;
+    padding-top: 100px;
 }
