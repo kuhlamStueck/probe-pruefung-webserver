@@ -13,3 +13,10 @@ body {
 .shadow {
     box-shadow: 0px 2px 5px 2px darkgrey;
 }
+h1 {
+    width: 100%;
+    background: rgb(145, 178, 216);
+    color: black;
+    margin: 0px;
+    padding: 15px 20px;
+}
